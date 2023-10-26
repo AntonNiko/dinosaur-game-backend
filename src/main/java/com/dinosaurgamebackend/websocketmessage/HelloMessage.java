@@ -1,4 +1,4 @@
-package com.dinosaurgamebackend.main;
+package com.dinosaurgamebackend.websocketmessage;
 
 public class HelloMessage {
     private String name;

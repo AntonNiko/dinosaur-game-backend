@@ -1,4 +1,4 @@
-package com.dinosaurgamebackend.main;
+package com.dinosaurgamebackend.websocketresponse;
 
 public class GreetingResponse {
     private String content;
